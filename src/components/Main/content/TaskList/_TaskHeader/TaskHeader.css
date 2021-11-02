@@ -1,0 +1,36 @@
+.TaskList__TaskHeader {
+  /* border: solid black 3px; */
+  display: flex;
+}
+
+.TaskList__TaskHeader div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+  font-size: 24px;
+  height: 100%;
+  width: 50%;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.TaskList__TaskHeader_backlog div {
+  background-color: rgb(175, 182, 189);
+  color: rgb(87, 87, 87);
+}
+
+.TaskList__TaskHeader_inProgress div {
+  background-color: skyblue;
+  color: rgb(39, 118, 223);
+}
+
+.TaskList__TaskHeader_completed div {
+  background-color: rgb(167, 224, 167);
+  color: green;
+}
+
+.TaskList__TaskHeader_basket div {
+  background-color: rgb(233, 173, 173);
+  color: rgb(138, 57, 70);
+}

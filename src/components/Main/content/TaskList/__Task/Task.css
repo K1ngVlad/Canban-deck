@@ -1,0 +1,26 @@
+.TaskList__Task {
+  /* border: solid rgb(180, 177, 177) 3px; */
+  display: flex;
+  border-radius: 10px;
+  background-color: white;
+  font-weight: bold;
+  font-size: 20px;
+  align-items: center;
+  padding-left: 15px;
+}
+
+/* .TaskList__Task_backlog {
+  background-color: slategray;
+}
+
+.TaskList__Task_inProgress {
+  background-color: skyblue;
+}
+
+.TaskList__Task_completed {
+  background-color: green;
+}
+
+.TaskList__Task_basket {
+  background-color: darkred;
+} */

@@ -1,0 +1,29 @@
+.TaskList {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 48px;
+  grid-row-gap: 10px;
+  grid-auto-rows: 56px;
+}
+
+.test {
+  background-color: forestgreen;
+}
+
+.deleteBtn {
+  border: none;
+  border-radius: 10px;
+  background-color: rgb(163, 79, 79);
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.deleteBtn:hover {
+  opacity: 0.6;
+}
+
+.disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}

@@ -1,0 +1,31 @@
+.Content {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-rows: 32px;
+  grid-row-gap: 32px;
+  grid-column-gap: 48px;
+  grid-template-areas:
+    '. . . .'
+    'createTask createTask . .'
+    'backlog inProgress completed basket';
+}
+
+.CreateTask {
+  grid-area: createTask;
+}
+
+.TaskList_backlog {
+  grid-area: backlog;
+}
+
+.TaskList_inProgress {
+  grid-area: inProgress;
+}
+
+.TaskList_completed {
+  grid-area: completed;
+}
+
+.TaskList_basket {
+  grid-area: basket;
+}

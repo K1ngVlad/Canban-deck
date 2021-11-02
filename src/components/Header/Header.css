@@ -1,0 +1,6 @@
+.Header {
+  display: grid;
+  grid-template-columns: 1fr 1200px 1fr;
+  grid-template-rows: 128px;
+  background-color: rgb(51, 123, 238);
+}

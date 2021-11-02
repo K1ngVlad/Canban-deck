@@ -1,0 +1,40 @@
+.CreateTask {
+  display: grid;
+  grid-template-rows: 64px 56px 8px;
+  grid-gap: 24px;
+  background-color: white;
+  border-radius: 10px;
+}
+.CreateTask .h1 {
+  margin-left: 40px;
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  border-radius: 10px;
+}
+
+.input {
+  display: grid;
+  grid-template-columns: 24px 288px 192px 24px;
+  grid-gap: 16px;
+}
+
+.input button {
+  border: none;
+  border-radius: 10px;
+  background-color: rgb(16, 88, 255);
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.input button:hover {
+  opacity: 0.6;
+}
+
+.input input {
+  border-radius: 10px;
+  border: rgb(207, 206, 206) solid 3px;
+  font-size: 20px;
+  font-weight: bold;
+}
