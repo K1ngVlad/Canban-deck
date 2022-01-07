@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Canban-deck-React/static/css/main.b3212f78.chunk.css",
+    "main.js": "/Canban-deck-React/static/js/main.ac4acbac.chunk.js",
+    "main.js.map": "/Canban-deck-React/static/js/main.ac4acbac.chunk.js.map",
+    "runtime-main.js": "/Canban-deck-React/static/js/runtime-main.1593f40b.js",
+    "runtime-main.js.map": "/Canban-deck-React/static/js/runtime-main.1593f40b.js.map",
+    "static/js/2.b2081ea7.chunk.js": "/Canban-deck-React/static/js/2.b2081ea7.chunk.js",
+    "static/js/2.b2081ea7.chunk.js.map": "/Canban-deck-React/static/js/2.b2081ea7.chunk.js.map",
+    "static/js/3.61cbdffc.chunk.js": "/Canban-deck-React/static/js/3.61cbdffc.chunk.js",
+    "static/js/3.61cbdffc.chunk.js.map": "/Canban-deck-React/static/js/3.61cbdffc.chunk.js.map",
+    "index.html": "/Canban-deck-React/index.html",
+    "static/css/main.b3212f78.chunk.css.map": "/Canban-deck-React/static/css/main.b3212f78.chunk.css.map",
+    "static/js/2.b2081ea7.chunk.js.LICENSE.txt": "/Canban-deck-React/static/js/2.b2081ea7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1593f40b.js",
+    "static/js/2.b2081ea7.chunk.js",
+    "static/css/main.b3212f78.chunk.css",
+    "static/js/main.ac4acbac.chunk.js"
+  ]
+}
